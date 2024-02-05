@@ -21,7 +21,7 @@ function createSwiper(container, pagination, nextButton, prevButton) {
 }
 
 function buttonCte(){
-    const curriculo = './Eduardo Monteiro - Currículo (1).pdf';
+    const curriculo = './Eduardo Monteiro - Currículo.pdf';
     window.open(curriculo,'_blank')
   }
 
